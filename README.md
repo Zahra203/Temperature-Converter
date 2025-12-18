@@ -11,3 +11,6 @@ open DOS operator and run the following commands
 4) press enter three times
 5) link temp
 
+<img width="645" height="363" alt="image" src="https://github.com/user-attachments/assets/1d2d6ab5-d7f4-404c-9437-9779dbadc97e" />
+
+
