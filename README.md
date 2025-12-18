@@ -1,15 +1,62 @@
-# Temperature-Converter
-A Temperature Converter using Assembly Languge( MASM  -8086) using DOS
-Stepds to run it 
-Firstly install it on DOS on your system also 8086_Assembler.zip
-Unzip the 8086_Assembler.zip save it as asm (or any name you want)
-Paste the temp file code in the asm file 
-open DOS operator and run the following commands 
-1) mount c "your file path where you save asm file"
-2) c:
-3) masm.exe temp.exec
-4) press enter three times
-5) link temp
+
+
+
+
+
+# 🌡️ Temperature Converter (8086 Assembly – MASM)
+
+A simple **Temperature Converter** written in **8086 Assembly Language** using **MASM**, designed to run in a **DOS environment**. This project demonstrates basic arithmetic operations, input/output handling, and control flow in low-level programming.
+
+---
+
+## 🛠️ Requirements
+
+Before running the program, make sure you have:
+
+* **DOSBox** (or any DOS emulator)
+* **MASM 8086 Assembler** (`8086_Assembler.zip`)
+* Windows system (recommended for DOSBox)
+
+---
+
+## 📂 Setup Instructions
+
+1. **Install DOSBox** on your system.
+2. **Download and extract** `8086_Assembler.zip`.
+3. Rename the extracted folder to **`asm`** (or any name you prefer).
+4. Place the temperature converter source file (e.g., `temp.asm`) inside this folder.
+
+---
+
+## ▶️ How to Run the Program
+
+Open **DOSBox** and execute the following commands step by step:
+
+```text
+mount c "path_to_your_asm_folder"
+c:
+masm.exe temp.asm
+```
+
+* Press **Enter three times** when prompted by MASM.
+
+Then link the file:
+
+```text
+link temp
+```
+
+Once linking is complete, run the program:
+
+```text
+temp
+```
+
+---
+
+## 📸 Output Screenshots
+
+Below are sample screenshots showing the compilation and execution process in DOS:
 
 <img width="645" height="363" alt="image" src="https://github.com/user-attachments/assets/1d2d6ab5-d7f4-404c-9437-9779dbadc97e" />
 <img width="644" height="436" alt="image" src="https://github.com/user-attachments/assets/fe8fa870-c675-4fc7-8ae9-75478085b1ed" />
@@ -17,7 +64,24 @@ open DOS operator and run the following commands
 <img width="747" height="513" alt="image" src="https://github.com/user-attachments/assets/b3875313-52a7-43f4-b529-3d8664520ea7" />
 
 
+---
 
-**Disclaimer**:
-donot write "S" the "S" written in the images is due to the screenshot when we take screenshot the DOS cmd automatically shows "S" but does not effect the output 
+## ⚠️ Important Disclaimer
+
+> **Do NOT type the letter `S` during execution.**
+>
+> The `S` visible in the screenshots appears automatically due to the screenshot capture process in DOSBox. It **does not affect the program output** and is **not part of the input**.
+
+---
+
+## 📚 Learning Purpose
+
+This project is intended for:
+
+* Beginners learning **8086 Assembly Language**
+* Understanding **MASM syntax**
+* Practicing **DOS-based program execution**
+* Academic and educational use
+
+---
 
