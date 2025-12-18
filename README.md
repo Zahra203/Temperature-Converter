@@ -13,24 +13,10 @@ open DOS operator and run the following commands
 
 <img width="645" height="363" alt="image" src="https://github.com/user-attachments/assets/1d2d6ab5-d7f4-404c-9437-9779dbadc97e" />
 <img width="644" height="436" alt="image" src="https://github.com/user-attachments/assets/fe8fa870-c675-4fc7-8ae9-75478085b1ed" />
-  
+<img width="735" height="506" alt="image" src="https://github.com/user-attachments/assets/f04b5e25-bf6a-4304-8ddc-7a0c4d6040f5" />
+<img width="747" height="513" alt="image" src="https://github.com/user-attachments/assets/b3875313-52a7-43f4-b529-3d8664520ea7" />
 
 
-
-
-
-
-     
-
-
-
-
-
-
-
-
-
-  
 
 **Disclaimer**:
 donot write "S" the "S" written in the images is due to the screenshot when we take screenshot the DOS cmd automatically shows "S" but does not effect the output 
