@@ -1,0 +1,7 @@
+9,10,12,4,15,16,3,4,5 
+4 qs
+assignments 3,4 imp (1 qs from these assignments)
+technical qs from lectures which are teechnical topics
+cuda architecture,graphic proccessing units,Generation 3 and 5 computers
+jargon terms of parallel distributed computing 
+   
